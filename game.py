@@ -23,7 +23,7 @@ for index_linha in range(len(tabuleiro)):
         else:
             tabuleiro[index_linha][index_casa] = '🌲'
 
-pos_jogador = (4, 0)
+pos_jogador = (0, 0)
 icon_jogador = '🚶'
 
 def exibir_tabuleiro():
